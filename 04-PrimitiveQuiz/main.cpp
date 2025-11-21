@@ -1,14 +1,14 @@
 #include <iostream>
 using namespace std;
 
-// This program asks a simple math question and checks if the answer is correct.
+// This program is asking the user a math question and checks if the answer is correct.
 int main() {
-    int answer; // Variable to store user's answer
-    cout << "What is 5 + 3? ";
+    int answer; // Variable to store the answer
+    cout << "What is 10 + 5? ";
     cin >> answer;
 
     // Check if the answer is correct
-    if (answer == 8) {
+    if (answer == 15) {
         cout << "Correct!" << endl;
     } else {
         cout << "Wrong answer." << endl;
