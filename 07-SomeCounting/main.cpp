@@ -3,7 +3,7 @@ using namespace std;
 
 // This program counts from a start number to an end number.
 int main() {
-    int start, end; // Variables for range
+    int start, end; 
     cout << "Enter start number: ";
     cin >> start;
     cout << "Enter end number: ";
