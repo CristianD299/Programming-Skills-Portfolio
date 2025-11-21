@@ -1,10 +1,10 @@
 # Programming Skills Portfolio
 
 ## Student & Module 
-**Name:** Cristian Dumitru
-**Module:** Code Lab I
-**GitHub Repository:** 
-**SoloLearn Certificate:** https://www.sololearn.com/certificates/CC-LFJTMUEH
+- **Name:** Cristian Dumitru
+- **Module:** Code Lab I
+- **GitHub Repository:** https://github.com/CristianD299/Programming-Skills-Portfolio
+- **SoloLearn Certificate:** https://www.sololearn.com/certificates/CC-LFJTMUEH
 
 ##  Overview
 This repository shows solutions to a series of C++ programming exercises that are targeted at strengthening the basics of programming. The exercises have been solved within the **CodeLab I module** and cover the basic concepts of input/output, loops, conditionals, and arrays.
