@@ -1,24 +1,21 @@
 # Programming Skills Portfolio
 
 ## 📌 Overview
-This repository contains solutions to a series of C++ programming exercises designed to strengthen fundamental programming skills. These exercises were completed as part of the **CodeLab I module** and cover basic concepts such as input/output, loops, conditionals, and arrays.
+This repository shows solutions to a series of C++ programming exercises that are targeted at strengthening the basics of programming. The exercises have been solved within the **CodeLab I module** and cover the basic concepts of input/output, loops, conditionals, and arrays.
 
 ## 📂 Folder Structure
-Each exercise is organized into its own folder inside the `ProgrammingSkillsPortfolio` directory:
-```
-ProgrammingSkillsPortfolio/
-    01-CodingIsCool/
-    02-SimpleSums/
-    03-Biography/
-    04-PrimitiveQuiz/
-    05-DaysOfTheMonth/
-    06-BruteForceAttack/
-    07-SomeCounting/
-    08-SimpleSearch/
-    09-Hello/
-    10-IsItEven/
-```
-Each folder contains a `main.cpp` file with the solution.
+
+ProgrammingSkillsPortfolio
+    01-CodingIsCool
+    02-SimpleSums
+    03-Biography
+    04-PrimitiveQuiz
+    05-DaysOfTheMonth
+    06-BruteForceAttack
+    07-SomeCounting
+    08-SimpleSearch
+    09-Hello
+    10-IsItEven
 
 ## ▶️ How to Run
 1. Open the desired exercise folder.
@@ -43,7 +40,7 @@ Each folder contains a `main.cpp` file with the solution.
 6. **Brute Force Attack** – Simulates guessing a password.
 7. **Some Counting** – Counts numbers in a range.
 8. **Simple Search** – Searches for a number in an array.
-9. **Hello** – Greets the user by name.
+9. **Hello** – Greets the user.
 10. **Is it even?** – Checks if a number is even or odd.
 
 ## 🔗 GitHub Workflow Tips
