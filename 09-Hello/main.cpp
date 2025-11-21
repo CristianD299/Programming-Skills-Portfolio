@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-// This program greets the user by name.
+// This program greets the user.
 int main() {
     string name; // Variable for user's name
     cout << "Enter your name: ";
