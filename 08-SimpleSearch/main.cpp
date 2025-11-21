@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// This program searches for a number in a predefined array.
+// The program will search for a number in a predefined array.
 int main() {
     int arr[] = {3, 7, 9, 12, 15}; // Array of numbers
     int size = 5; // Size of array
