@@ -29,33 +29,15 @@ ProgrammingSkillsPortfolio
    ```
 
 ##  Exercises
-### Deadline 1
+
 1. **Coding is Cool** – Prints a simple message.
 2. **Simple Sums** – Adds two numbers entered by the user.
 3. **Biography** – Displays user’s name, age, and hobby.
 4. **Primitive Quiz** – Simple math quiz.
 5. **Days of the Month** – Shows number of days in a given month.
-
-### Deadline 2
 6. **Brute Force Attack** – Simulates guessing a password.
 7. **Some Counting** – Counts numbers in a range.
 8. **Simple Search** – Searches for a number in an array.
 9. **Hello** – Greets the user.
 10. **Is it even?** – Checks if a number is even or odd.
 
-##  GitHub Workflow Tips
-- **Add changes**:
-  ```bash
-  git add .
-  ```
-- **Commit changes**:
-  ```bash
-  git commit -m "Added solution for [Exercise Name]"
-  ```
-- **Push to GitHub**:
-  ```bash
-  git push origin main
-  ```
-
----
-Feel free to explore, modify, and learn from these examples!
