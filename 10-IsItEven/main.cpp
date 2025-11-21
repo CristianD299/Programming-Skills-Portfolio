@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-// This program checks if a number is even or odd.
+// This program will check if a number is even or odd.
 int main() {
-    int number; // Variable for user's number
+    int number; // Variable for numbers
     cout << "Enter a number: ";
     cin >> number;
 
