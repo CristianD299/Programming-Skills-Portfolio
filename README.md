@@ -1,9 +1,9 @@
 # Programming Skills Portfolio
 
-## 📌 Overview
+##  Overview
 This repository shows solutions to a series of C++ programming exercises that are targeted at strengthening the basics of programming. The exercises have been solved within the **CodeLab I module** and cover the basic concepts of input/output, loops, conditionals, and arrays.
 
-## 📂 Folder Structure
+##  Folder Structure
 
 ProgrammingSkillsPortfolio
     01-CodingIsCool
@@ -17,7 +17,7 @@ ProgrammingSkillsPortfolio
     09-Hello
     10-IsItEven
 
-## ▶️ How to Run
+##  How to Run
 1. Open the desired exercise folder.
 2. Compile the program using a C++ compiler:
    ```bash
@@ -28,7 +28,7 @@ ProgrammingSkillsPortfolio
    ./program
    ```
 
-## ✅ Exercises
+##  Exercises
 ### Deadline 1
 1. **Coding is Cool** – Prints a simple message.
 2. **Simple Sums** – Adds two numbers entered by the user.
@@ -43,7 +43,7 @@ ProgrammingSkillsPortfolio
 9. **Hello** – Greets the user.
 10. **Is it even?** – Checks if a number is even or odd.
 
-## 🔗 GitHub Workflow Tips
+##  GitHub Workflow Tips
 - **Add changes**:
   ```bash
   git add .
