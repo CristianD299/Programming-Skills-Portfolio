@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// This program displays the number of days in a given month.
+// This program shows the number of days in a given month.
 int main() {
     int month; // Variable to store month number
     cout << "Enter month number (1-12): ";
