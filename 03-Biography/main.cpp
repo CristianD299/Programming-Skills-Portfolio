@@ -12,16 +12,14 @@ int main() {
     getline(cin, name);
     cout << "Enter your age: ";
     cin >> age;
-    cin.ignore(); // Clear input buffer
+    cin.ignore(); 
     cout << "Enter your hobby: ";
     getline(cin, hobby);
 
     // Display the biography
-    cout << "
-Biography:
-";
-    cout << "Name: " << name << "
-Age: " << age << "
-Hobby: " << hobby << endl;
+    cout << "Biography:" endl;
+    cout << "Name: " << name << endl; 
+    cout << "Age: " << age << endl;
+    cout << "Hobby: " << hobby << endl;
     return 0;
 }
